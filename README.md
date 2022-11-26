@@ -47,5 +47,5 @@ Also the objectivehas the objective to apply Snell's law of refraction to visual
 
 ## License
 
-Pssword is MIT licensed
+MIT licensed
 
